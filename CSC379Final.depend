@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1680800885 source:/home/kai/Documents/College/Semester 4/CSC379 Algo Analysis/Final/CSC379Final/decodevideo.cpp
+	"decodevideo.hpp"
+
+1680921826 source:/home/kai/Documents/College/Semester 4/CSC379 Algo Analysis/Final/CSC379Final/fastpixelmap.cpp
+	"fastpixelmap.hpp"
+
+1680921588 source:/home/kai/Documents/College/Semester 4/CSC379 Algo Analysis/Final/CSC379Final/main.cpp
+	<iostream>
+	"decodevideo.hpp"
+	"fastpixelmap.hpp"
+
+1680800869 /home/kai/Documents/College/Semester 4/CSC379 Algo Analysis/Final/CSC379Final/decodevideo.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+	<libavutil/imgutils.h>
+	<libavutil/samplefmt.h>
+	<libavutil/timestamp.h>
+	<libavutil/opt.h>
+	<libavfilter/avfilter.h>
+	<libavfilter/buffersink.h>
+	<libavfilter/buffersrc.h>
+
+1680915346 /home/kai/Documents/College/Semester 4/CSC379 Algo Analysis/Final/CSC379Final/fastpixelmap.hpp
+	<iostream>
+	<algorithm>
+
